@@ -21,9 +21,7 @@ Code used: Python, Pandas, Matplotlib, Seaborn, and Numpy.
 5. Positive correlation between the duration of calls and the total bandwidth usage.
 6. Calls that have participants that turn on their mic, others that share screen, and are classified as group calls have a higher probability of having a longer call duration and more total bandwidth usage.
 
-![Image](https://github.com/rafationgson/Project-5/blob/master/Platform.png)
-
-![Image](https://github.com/rafationgson/Project-5/blob/master/Calls-Hour.png)
+![Image](https://github.com/rafationgson/Project-5/blob/master/Platform.png)  ![Image](https://github.com/rafationgson/Project-5/blob/master/Calls-Hour.png)
 
 ![Image](https://github.com/rafationgson/Project-5/blob/master/Participant.png)  ![Image](https://github.com/rafationgson/Project-5/blob/master/Group.png)
 
