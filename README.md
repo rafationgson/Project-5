@@ -25,9 +25,7 @@ Code used: Python, Pandas, Matplotlib, Seaborn, and Numpy.
 
 ![Image](https://github.com/rafationgson/Project-5/blob/master/Calls-Hour.png)
 
-![Image](https://github.com/rafationgson/Project-5/blob/master/Participant.png width="100" height="200")
-
-![Image](https://github.com/rafationgson/Project-5/blob/master/Group.png)
+![Image](https://github.com/rafationgson/Project-5/blob/master/Participant.png)  ![Image](https://github.com/rafationgson/Project-5/blob/master/Group.png)
 
 
 
