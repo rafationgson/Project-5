@@ -14,7 +14,7 @@ Code used: Python, Pandas, Matplotlib, Seaborn, and Numpy.
 4. Added a column for call duration in seconds.
 
 ## Data Exploration and Findings:
-1. Zoom is the most widely used platform; making 65% of the total dataset.
+1. Based on this dataset, majority of the calls use Zoom as the platform. This finding needs more data to verify.
 2. Most calls occur on Mondays and Wednesday.
 3. The month of August had the highest number of calls.
 4. Looking at the number of calls per hour, 9 AM to 12 NN have the highest number of calls.
